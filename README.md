@@ -45,12 +45,4 @@ Here are some projects I have worked on:
 
 ---
 
-## 🌟 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aksorna&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aksorna&layout=compact&theme=tokyonight)
-
----
-
 ⭐ Thanks for visiting my profile!
