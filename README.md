@@ -41,7 +41,6 @@ Here are some projects I have worked on:
 
 - Email: aminakhanomsorna10@gmail.com
 - LinkedIn: https://bd.linkedin.com/in/amina-khanom-70282127b
-- Portfolio: your-portfolio-link
 
 ---
 
