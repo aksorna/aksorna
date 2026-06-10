@@ -1,4 +1,4 @@
-# Hi 👋, I'm Amina Khanom Sorna
+# Hi 👋, I'm Amina K.
 
 ### Frontend Web Developer | WordPress Expert
 
